@@ -14,5 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xH4rdzn&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xH4rdzn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xH4rdzn&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
