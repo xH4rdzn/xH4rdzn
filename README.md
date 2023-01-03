@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-🌱 Atualmente estou estudando <br>
+🌱 Atualmente estou estudando programação front-end <br>
 
 ## 🌐 Redes Sociais:
 
