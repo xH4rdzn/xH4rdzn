@@ -7,7 +7,7 @@
 ## 💻 Tech Stacks: 
 
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,prisma,java" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,prisma,java,spring" />
 </p>
 
 ## 🌐 Contact:
