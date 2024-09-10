@@ -2,12 +2,12 @@
 
 - 👨🏼‍🏫 Studing Systems Analysis and Development at [Descomplica](https://descomplica.com.br/faculdade/)
 
-- 📚 Studing Back-end with Node.js
+- 📚 Studing Back-end with Node.js, Java and Go
 
 ## 💻 Tech Stacks: 
 
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,prisma,java,spring" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,prisma,java,spring,go" />
 </p>
 
 ## 🌐 Contact:
