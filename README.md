@@ -7,7 +7,15 @@
 ## 💻 Tech Stacks: 
 
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,prisma,java,spring,go" />
+    - <img src="https://skillicons.dev/icons?i=js,ts,nodejs,prisma" />
+</p>
+
+<p align="center>
+    - <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+<p align="center>
+    - <img src="https://skillicons.dev/icons?i=go" />
 </p>
 
 ## 🌐 Contact:
