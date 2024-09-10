@@ -6,17 +6,35 @@
 
 ## 💻 Tech Stacks: 
 
-<p align="center"> 
+<h3 align="center"> 
+    JavaScript
+    <br>
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,prisma" />
-</p>
+</h3>
 
-<p align="center>
-     <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
+<h3 align="center">
+    Java
+    <br>
+   <img src="https://skillicons.dev/icons?i=java,spring" />
+</h3>
 
-<p align="center>
-     <img src="https://skillicons.dev/icons?i=go" />
-</p>
+<h3 align="center">
+     Go
+    <br>
+    <img center src="https://skillicons.dev/icons?i=go" />
+</h3>
+
+<h3 align="center">
+    O.S
+    <br>
+   <img src="https://skillicons.dev/icons?i=windows,linux" />
+</h3>
+
+<h3 align="center">
+    Other Tools
+    <br>
+   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+</h3>
 
 ## 🌐 Contact:
 <p align="center">
