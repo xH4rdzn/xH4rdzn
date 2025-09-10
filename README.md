@@ -1,8 +1,8 @@
 ## About:
 
-- 👨🏼‍🏫 Studing Systems Analysis and Development at [Descomplica](https://descomplica.com.br/faculdade/)
+- 👨🏼‍🏫 Studing Systems Analysis and Development at [Uninter](https://www.uninter.com/)
 
-- 📚 Studing Back-end with Node.js, Java and Go
+- 📚 Studing Back-end with Node.js, Java
 
 ## 💻 Tech Stacks: 
 
