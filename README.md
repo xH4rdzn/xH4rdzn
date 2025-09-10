@@ -18,11 +18,6 @@
    <img src="https://skillicons.dev/icons?i=java,spring" />
 </h3>
 
-<h3 align="center">
-     Go
-    <br>
-    <img center src="https://skillicons.dev/icons?i=go" />
-</h3>
 
 <h3 align="center">
     O.S
