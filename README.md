@@ -1,6 +1,6 @@
 ## About:
 
-- 👨🏼‍🏫 Studing Systems Analysis and Development at [Uninter](https://www.uninter.com/)
+- 👨🏼‍🏫 Studing Systems Analysis and Development at [UniFECAF](https://www.unifecaf.com.br)
 
 - 📚 Studing Back-end with Node.js, Java
 
